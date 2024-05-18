@@ -1,0 +1,42 @@
+.ftte{
+    display: flex;
+    justify-content: space-between;
+   
+  /* max-width: 1440px; */
+  
+  padding: 72px 124px 72px 124px;
+  gap: 64px;
+  background-color: #202430;
+}
+
+.mo{
+color: white;
+}
+
+
+.thrc{
+    width: 223px;
+    height: 25px;
+    border: 1px;
+    padding: 12px 16px 12px 16px;
+}
+
+.traitss{
+    background-color: #D6DDEB;
+    border: 1px;
+    /* width: 1715px; */
+    height: 4px;
+    /* margin-left: 40px; */
+  }
+
+  .mm{
+    color: #D6DDEB;
+  }
+
+  .mmi{
+    color: #D6DDEB;
+    max-width: 1440px;
+  
+  padding: 72px 124px 72px 124px;
+  gap: 64px;
+  }

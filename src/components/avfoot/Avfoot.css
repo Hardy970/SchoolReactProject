@@ -1,0 +1,68 @@
+.parent{
+    display: flex;
+}
+
+.shouor{
+    
+    
+}
+
+.flexd{
+
+    font-weight: 600;
+  font-size: 27px;
+  line-height: 80.4px;
+  display: flex;
+}
+
+.fle1{
+    width: 70px;
+    height: 34px;
+    border-radius: 80px;
+    padding: 6px 30px 10px 20px;
+    gap: 8px;
+    background-color: #56CDAD1A;
+    color: #56CDAD;
+    line-height: 40.4px;
+    font-size: 20px;
+    margin-top: 0;
+    white-space: nowrap;
+}
+
+.fle2{
+    width: 70px;
+  height: 34px;
+  border-radius: 80px;
+  padding: 6px 30px 10px 10px;
+  gap: 8px;
+  background-color: #EB85331A;
+  color: #FFB836;
+  line-height: 40.4px;
+  margin-right: 10px;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.fle3{
+    width: 70px;
+    height: 34px;
+    border-radius: 80px;
+    padding: 6px 30px 10px 20px;
+    gap: 8px;
+    background-color: #56CDAD1A;
+    color: #56CDAD;
+    line-height: 40.4px;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.ck{
+        background-color: #D6DDEB;
+        border: 1px;
+        rotate: -90°;
+        width: 1px;
+        height: 50px;
+        margin-right: 5px;
+        margin-left: 5px;
+}

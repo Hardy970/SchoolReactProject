@@ -1,0 +1,11 @@
+/* JobList.css */
+.job-list {
+    width: 75%;
+    float: right;
+  }
+  
+  .job-list h3 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  

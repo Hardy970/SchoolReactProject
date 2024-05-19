@@ -20,7 +20,7 @@ import NavBar from './assets/components/NavBar';
 import LandingPage from './assets/components/LandingPage';
 import Jobs from './assets/components/Jobs';
 import Companies from './containers/APP/Companies';
-import Footer from './components/footer/Footer'
+import Footer from './assets/components/Footer'
 
 function App() {
   return (
